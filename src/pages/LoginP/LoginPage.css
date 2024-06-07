@@ -1,0 +1,23 @@
+#body{
+  background-color: white;
+}
+
+#root{
+  background-color: white;
+}
+
+.button-section .button-section-element  { 
+  margin: 1.1rem auto;
+}
+ 
+@media ( max-width: 500px){
+  #logincard{ 
+    margin-top: 33%;
+  }
+}
+
+@media ( min-width: 500px){
+  #logincard{ 
+    margin: 15% 34% 0 34%;
+  }
+}
